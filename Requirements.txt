@@ -1,0 +1,3 @@
+pip install streamlit
+
+go the project repository and run streamlit app.py
